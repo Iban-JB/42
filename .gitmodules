@@ -1,0 +1,51 @@
+[submodule "CommonCore/Libft"]
+	path = CommonCore/Libft
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-373c3873-e82e-499d-b532-1e6b42ca0d5b-5291049-ibjean-b
+[submodule "CommonCore/ft_printf"]
+	path = CommonCore/ft_printf
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-9bd8331d-5b07-410f-8f8b-8bef9227cffc-5333584-ibjean-b
+[submodule "CommonCore/get_next_line"]
+	path = CommonCore/get_next_line
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-733c28ba-80fc-4b08-969b-98db64e304a7-5325361-ibjean-b
+[submodule "CommonCore/fract-ol"]
+	path = CommonCore/fract-ol
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-48cabd08-6090-43bc-85f8-995c497a9909-5519411-ibjean-b
+[submodule "CommonCore/pipex"]
+	path = CommonCore/pipex
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-dd6e764a-974e-4b76-847e-23710d3cf9eb-5604957-ibjean-b
+[submodule "CommonCore/push_swap"]
+	path = CommonCore/push_swap
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-d0cb4174-9834-4f1a-84cd-2dde56240d23-5618591-ibjean-b
+[submodule "CommonCore/minishell"]
+	path = CommonCore/minishell
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-219e26fd-ae7e-4845-8fa3-45b1e60bce37-5740022-ibjean-b
+[submodule "CommonCore/Philosophers"]
+	path = CommonCore/Philosophers
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-6b658d27-4224-49e1-af9e-d16e71228b21-5682417-ibjean-b
+[submodule "CommonCore/modules/cpp_00"]
+	path = CommonCore/modules/cpp_00
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-7f57da01-c314-4dff-b2e4-3b556d023f61-6153386-ibjean-b
+[submodule "CommonCore/modules/cpp_01"]
+	path = CommonCore/modules/cpp_01
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-86f6317d-2af7-4420-ac52-97e192194d62-6157252-ibjean-b
+[submodule "CommonCore/modules/cpp_02"]
+	path = CommonCore/modules/cpp_02
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-a165e1d7-db8e-4a5a-be98-5590a8c1d9fd-6182837-ibjean-b
+[submodule "CommonCore/modules/cpp_03"]
+	path = CommonCore/modules/cpp_03
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-914897e3-1103-4f0d-aac1-34f524c88499-6184761-ibjean-b
+[submodule "CommonCore/modules/cpp_04"]
+	path = CommonCore/modules/cpp_04
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-3eecf066-5692-45c3-b865-970b93f02055-6218925-ibjean-b
+[submodule "CommonCore/modules/cpp_05"]
+	path = CommonCore/modules/cpp_05
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-89c77be6-4d9c-4736-8589-d303c7d92f03-6358648-ibjean-b
+[submodule "CommonCore/modules/cpp_06"]
+	path = CommonCore/modules/cpp_06
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-62b1f383-ea85-4f50-b9ae-0cc31df041a6-6359161-ibjean-b
+[submodule "CommonCore/modules/cpp_07"]
+	path = CommonCore/modules/cpp_07
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-854bf7ff-441e-4a88-beff-3dda3eabd2e0-6375319-ibjean-b
+[submodule "CommonCore/modules/cpp_08"]
+	path = CommonCore/modules/cpp_08
+	url = git@vogsphere.42lyon.fr:vogsphere/intra-uuid-f51a5839-0174-485b-afe7-c8d26d44c82b-6380368-ibjean-b
